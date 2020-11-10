@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+h1 {
+  margin: 0.5em 0 !important;
+  font-family: 'DM Serif Display', serif !important;
+  font-size: 4rem !important;
+}
+
+@media(min-width: 900px){
+  h1 {
+    margin: 1em 0 !important;
+  }
+}
